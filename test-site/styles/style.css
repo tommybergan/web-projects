@@ -1,22 +1,22 @@
 .bd-index-site {background-color: rgb(255, 255, 128);}
 .wel_message {font-size: x-large; color: yellow; background: blue; }
-.inf_message {font-size: x-large; color: blue;}
+.inf_message {font-size: large; color: blue;}
 #first-section {float:left; width: 50%;}
 #b-utleie { float: right; width: 30%; background: burlywood; }
 .i {font-family: sans-serif;font-size: 20px; line-height: 22px;}
-.header-meny {font-family: cursive; font-size: x-large; color:olive;}
-.list-meny {font-family:sans-serif; font-size: x-large; color: maroon;
+.header-meny {font-family: cursive; font-size: large; color:olive;}
+.list-meny {font-family:sans-serif; font-size: large; color: maroon;
 }
-#sidebar-produkter {float:right; font-size: x-large;}
+#sidebar-produkter {float:right; font-size: large;}
 #sidebar-hovedside{font-size: large; float:left; width: 70%;}
 #second-section { float:left; width: 100%;}
 .back {font-family: fantasy; color: green;}
 .bd-produkter {background-color: rgb(255, 255, 128);}
-.header-produkter {font-size:x-large; color: yellow; background: blue;}
+.header-produkter {font-size:large; color: yellow; background: blue;}
 .bd-om-selskapet {background-color: rgb(255, 255, 128);}
 .om-selskapet { font-size: large; color:gray;}
 .bd-blog {background-color: rgb(255, 255, 128);}
 
 
 
-.foot {float: left;font-size: x-large; color: olive; }
+.foot {float: left;font-size: large; color: olive; }
