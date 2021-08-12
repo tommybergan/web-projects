@@ -1,0 +1,22 @@
+.bd-index-site {background-color: rgb(255, 255, 128);}
+.wel_message {font-size: xxx-large; color: yellow; background: blue; }
+.inf_message {font-size:xx-large; color: blue;}
+#first-section {float:left; width: 50%;}
+#b-utleie { float: right; width: 30%; background: burlywood; }
+.i {font-family: sans-serif;font-size: 30px; line-height: 22px;}
+.header-meny {font-family: cursive; font-size: xx-large; color:olive;}
+.list-meny {font-family:sans-serif; font-size: xx-large; color: maroon;
+}
+#sidebar-produkter {float:right; font-size: x-large;}
+#sidebar-hovedside{font-size: large; float:left; width: 70%;}
+#second-section { float:none; width: 60%;}
+.back {font-family: fantasy; color: green;}
+.bd-produkter {background-color: rgb(255, 255, 128);}
+.header-produkter {font-size:x-large; color: yellow; background: blue;}
+.bd-om-selskapet {background-color: rgb(255, 255, 128);}
+.om-selskapet { font-size: x-large; color:gray;}
+.bd-blog {background-color: rgb(255, 255, 128);}
+
+
+
+footer {font-size: xx-large; color: olive; float:left; }
